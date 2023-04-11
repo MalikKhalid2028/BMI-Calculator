@@ -3,6 +3,9 @@ This code is a Python program that calculates the Body Mass Index (BMI) of a per
 The code then interprets the BMI value according to the following categories:
 
 BMI < 18.5: Underweight
+
 18.5 <= BMI < 25: Normal weight
+
 25 <= BMI < 30: Overweight
+
 BMI >= 30: Obese
